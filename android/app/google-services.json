@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461271379945",
+    "project_id": "picnicpal-75f0a",
+    "storage_bucket": "picnicpal-75f0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461271379945:android:c1933b486f5e8e9860e578",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFTpYfOLqYKWHBVntRlMP59FejsyKBs28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
